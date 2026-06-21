@@ -17,6 +17,9 @@ A Python-based proof generator designed to generate payment proof images, specif
 - Python 3.x
 - [Pillow](https://python-pillow.org/) (Python Imaging Library)
 
+## 🗿 Examples
+If you are curious about what the generated proofs look like, check out the `examples/` folder. It contains sample images generated with this script. These files help you verify the font rendering, colors, and layout before running the generator yourself.
+
 ## 📦 Installation
 
 1. Clone this repository:
